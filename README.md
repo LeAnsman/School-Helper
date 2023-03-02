@@ -1,6 +1,8 @@
 # About this project
 School-helper is an online platform of free shared courses. A user can either be a teacher or a learner. As a teacher, you can post courses about subjects of your choice. As a learner, you can have a "watch list" of your followed courses. You can also rate and comment the courses.
 
+[Check out School Helper !](https://school-helper-app-tsdr7.ondigitalocean.app/)
+
 # Features
 
 ## Courses
